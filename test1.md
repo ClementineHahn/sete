@@ -8,9 +8,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, quisquam cup
 
 Pour mettre une ![image] (http://img1.gtsstatic.com/wallpapers/499fa46b9af9cc484c409d080da04283_large.jpeg)
 
-* point 1
-* point 2
-* point 3
+* point a
+* point b
+* point c
 
 ![img](https://raw.githubusercontent.com/pointbar/sete/master/1.jpg)
 
