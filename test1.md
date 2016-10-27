@@ -10,7 +10,9 @@ Pour mettre une ![image] (http://img1.gtsstatic.com/wallpapers/499fa46b9af9cc484
 
 * point 1
 * point 2
-* point 3 
+* point 3
+
+![img](https://raw.githubusercontent.com/pointbar/sete/master/1.jpg)
 
 
 
